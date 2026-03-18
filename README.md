@@ -8,9 +8,8 @@ MindXLib is an open toolkit ensemble of algorithmic achievements in XAI (Explain
 
 You can install MindXLib using pip:
 
-~~pip install mindxlib~~
 ```bash
-pip install git+http://gitlab.alibaba-inc.com/MindXAI/MindXLib.git
+pip install mindxlib
 ```
 
 Or install from source:
